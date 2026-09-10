@@ -7,21 +7,12 @@ AGENT_PATH = os.path.join(BASE, 'agent.js')
 AFFIX_PATH = os.path.join(BASE, 'gem_affix.json')
 ITEMS_PATH = os.path.join(BASE, 'items_give.json')
 
-# ---------- 主题 ----------
-BG      = '#15171c'
-PANEL   = '#1e2128'
-INPUT   = '#262a33'
-BORDER  = '#333945'
-TEXT    = '#e8eaed'
-MUTED   = '#9aa4b2'
-ACCENT  = '#4c8dff'
-OK      = '#3ddc84'
-ERR     = '#ff5c5c'
-WARN    = '#f5c26b'
-
-FONT       = ('Microsoft YaHei UI', 10)
-FONT_SM    = ('Microsoft YaHei UI', 9)
-FONT_BOLD  = ('Microsoft YaHei UI', 10, 'bold')
+BG, PANEL, INPUT, BORDER = '#15171c', '#1e2128', '#262a33', '#333945'
+TEXT, MUTED, DESC = '#e8eaed', '#9aa4b2', '#c3ccd8'
+ACCENT, OK, ERR, WARN = '#4c8dff', '#3ddc84', '#ff5c5c', '#f5c26b'
+FONT = ('Microsoft YaHei UI', 10)
+FONT_SM = ('Microsoft YaHei UI', 9)
+FONT_BOLD = ('Microsoft YaHei UI', 10, 'bold')
 FONT_TITLE = ('Microsoft YaHei UI', 15, 'bold')
 
 RES_TYPES = [('金币', 5), ('魂晶碎片', 4), ('魔铁锭', 7), ('黑铁原石', 60), ('魂花', 14)]
@@ -42,16 +33,13 @@ def setup_style(root):
     st.configure('Online.TLabel', background=BG, foreground=OK, font=FONT_BOLD)
     st.configure('Card.TLabelframe', background=PANEL, bordercolor=BORDER, relief='solid', borderwidth=1)
     st.configure('Card.TLabelframe.Label', background=PANEL, foreground=ACCENT, font=FONT_BOLD)
-    st.configure('TButton', background=INPUT, foreground=TEXT, bordercolor=BORDER,
-                 padding=(10, 5), font=FONT, relief='flat')
+    st.configure('TButton', background=INPUT, foreground=TEXT, bordercolor=BORDER, padding=(10, 5), font=FONT, relief='flat')
     st.map('TButton', background=[('active', '#2f3542'), ('pressed', '#3a4252')], foreground=[('disabled', MUTED)])
     st.configure('Accent.TButton', background=ACCENT, foreground='#0b0f14', font=FONT_BOLD)
     st.map('Accent.TButton', background=[('active', '#6aa3ff'), ('pressed', '#3a7ae6')])
     st.configure('TEntry', fieldbackground=INPUT, foreground=TEXT, insertcolor=TEXT, bordercolor=BORDER, padding=4)
-    st.configure('TCombobox', fieldbackground=INPUT, background=INPUT, foreground=TEXT, arrowcolor=TEXT,
-                 bordercolor=BORDER, padding=3)
-    st.map('TCombobox', fieldbackground=[('readonly', INPUT)], foreground=[('readonly', TEXT)],
-           background=[('readonly', INPUT)])
+    st.configure('TCombobox', fieldbackground=INPUT, background=INPUT, foreground=TEXT, arrowcolor=TEXT, bordercolor=BORDER, padding=3)
+    st.map('TCombobox', fieldbackground=[('readonly', INPUT)], foreground=[('readonly', TEXT)], background=[('readonly', INPUT)])
     st.configure('TSpinbox', fieldbackground=INPUT, foreground=TEXT, arrowcolor=TEXT, bordercolor=BORDER, padding=4)
     st.configure('TCheckbutton', background=PANEL, foreground=TEXT, font=FONT)
     st.map('TCheckbutton', background=[('active', PANEL)])
@@ -72,25 +60,26 @@ class App:
         self.root = root
         root.title('失落城堡2 修改器')
         root.configure(bg=BG)
-        root.geometry('1040x700')
-        root.minsize(920, 620)
+        root.geometry('1160x760')
+        root.minsize(1000, 660)
         self.session = None; self.script = None; self.api = None
         self.mq = queue.Queue()
 
         rows = load_json(AFFIX_PATH, [])
-        self.affix_labels = [f"[{r['slot']}|{r['rare']}] {r['name']} ({r['id']})" for r in rows]
-        self.affix_map = {f"[{r['slot']}|{r['rare']}] {r['name']} ({r['id']})": r['id'] for r in rows}
+        def lb(r): return f"[{r['slot']}|{r['rare']}] {r['name']} ({r['id']})"
+        self.affix_labels = [lb(r) for r in rows]
+        self.affix_map = {lb(r): r['id'] for r in rows}
+        self.affix_row = {lb(r): r for r in rows}
         self.sub_labels = ['【无】仅主词条（单词条石头）'] + self.affix_labels
         self.sub_map = {'【无】仅主词条（单词条石头）': ''}
         self.sub_map.update(self.affix_map)
         self.items = load_json(ITEMS_PATH, [])
         self.item_map = {}
 
-        # ---------- 顶部标题栏 ----------
         header = ttk.Frame(root, style='BG.TFrame')
         header.grid(row=0, column=0, columnspan=2, sticky='ew', padx=16, pady=(14, 4))
         ttk.Label(header, text='失落城堡2 修改器', style='Title.TLabel').pack(side='left')
-        ttk.Label(header, text='   离线单机 · IL2CPP + Frida', style='Sub.TLabel').pack(side='left', pady=(6, 0))
+        ttk.Label(header, text='   离线单机 · 资源 / 装备 / 灵魂石', style='Sub.TLabel').pack(side='left', pady=(6, 0))
         btns = ttk.Frame(header, style='BG.TFrame'); btns.pack(side='right')
         ttk.Button(btns, text='连接游戏', style='Accent.TButton', command=self.connect).pack(side='right')
         ttk.Button(btns, text='刷新状态', command=lambda: self.send('status')).pack(side='right', padx=8)
@@ -104,7 +93,7 @@ class App:
         root.columnconfigure(0, weight=0); root.columnconfigure(1, weight=1)
         root.rowconfigure(2, weight=1)
 
-        # ---------- 资源 / 货币 ----------
+        # 资源
         frm_res = ttk.LabelFrame(left, text=' 资源 / 货币（当前局） ', style='Card.TLabelframe')
         frm_res.pack(fill='x', pady=(0, 10), ipadx=8, ipady=6)
         ttk.Label(frm_res, text='类型').grid(row=0, column=0, sticky='e', padx=(6, 6), pady=6)
@@ -121,7 +110,7 @@ class App:
         ttk.Button(frm_res, text='设为', command=self.res_set).grid(row=1, column=4, padx=10, sticky='ew')
         self.on_res_change()
 
-        # ---------- 获取装备 / 宝藏 ----------
+        # 物品
         frm_item = ttk.LabelFrame(left, text=' 获取装备 / 宝藏（直接进包） ', style='Card.TLabelframe')
         frm_item.pack(fill='x', pady=(0, 10), ipadx=8, ipady=6)
         ttk.Label(frm_item, text='分类').grid(row=0, column=0, sticky='e', padx=(6, 6), pady=6)
@@ -129,7 +118,7 @@ class App:
         self.cat_combo.current(0); self.cat_combo.grid(row=0, column=1, sticky='w', pady=6)
         self.cat_combo.bind('<<ComboboxSelected>>', self.on_cat_change)
         ttk.Label(frm_item, text='物品').grid(row=1, column=0, sticky='e', padx=(6, 6), pady=6)
-        self.item_combo = ttk.Combobox(frm_item, state='readonly', width=52)
+        self.item_combo = ttk.Combobox(frm_item, state='readonly', width=54)
         self.item_combo.grid(row=1, column=1, columnspan=3, sticky='we', pady=6)
         self.drop_var = tk.BooleanVar(value=True)
         ttk.Checkbutton(frm_item, text='旧装备丢到地上', variable=self.drop_var).grid(row=2, column=1, sticky='w', pady=6)
@@ -137,25 +126,40 @@ class App:
         frm_item.columnconfigure(1, weight=1)
         self.on_cat_change()
 
-        # ---------- 灵魂石 ----------
-        frm_gem = ttk.LabelFrame(left, text=' 生成灵魂石（双词条 / 单词条） ', style='Card.TLabelframe')
+        # 灵魂石 + 预览
+        frm_gem = ttk.LabelFrame(left, text=' 生成灵魂石 ', style='Card.TLabelframe')
         frm_gem.pack(fill='x', pady=(0, 10), ipadx=8, ipady=6)
         ttk.Label(frm_gem, text='主词条').grid(row=0, column=0, sticky='e', padx=(6, 6), pady=6)
-        self.gem_main = ttk.Combobox(frm_gem, state='readonly', width=52, values=self.affix_labels)
+        self.gem_main = ttk.Combobox(frm_gem, state='readonly', width=54, values=self.affix_labels)
         self.gem_main.grid(row=0, column=1, columnspan=3, sticky='we', pady=6)
         ttk.Label(frm_gem, text='副词条').grid(row=1, column=0, sticky='e', padx=(6, 6), pady=6)
-        self.gem_sub = ttk.Combobox(frm_gem, state='readonly', width=52, values=self.sub_labels)
+        self.gem_sub = ttk.Combobox(frm_gem, state='readonly', width=54, values=self.sub_labels)
         self.gem_sub.grid(row=1, column=1, columnspan=3, sticky='we', pady=6)
-        if self.affix_labels:
-            self.gem_main.current(0)
-            self.gem_sub.current(1 if len(self.sub_labels) > 1 else 0)
         ttk.Label(frm_gem, text='等级').grid(row=2, column=0, sticky='e', padx=(6, 6), pady=6)
-        self.gem_level = ttk.Spinbox(frm_gem, from_=1, to=5, width=5); self.gem_level.set('5')
+        self.gem_level_var = tk.StringVar(value='5')
+        self.gem_level = ttk.Spinbox(frm_gem, from_=1, to=5, width=5, textvariable=self.gem_level_var)
         self.gem_level.grid(row=2, column=1, sticky='w', pady=6)
         ttk.Button(frm_gem, text='生成灵魂石', style='Accent.TButton', command=self.make_gem).grid(row=2, column=3, sticky='e', padx=10)
         frm_gem.columnconfigure(1, weight=1)
+        self.gem_main.bind('<<ComboboxSelected>>', self.update_preview)
+        self.gem_sub.bind('<<ComboboxSelected>>', self.update_preview)
+        self.gem_level_var.trace_add('write', lambda *a: self.update_preview())
 
-        # ---------- 日志 ----------
+        if self.affix_labels:
+            self.gem_main.current(0)
+            self.gem_sub.current(1 if len(self.sub_labels) > 1 else 0)
+        self.update_preview()
+
+        # 石头预览
+        frm_prev = ttk.LabelFrame(right, text=' 石头预览 ', style='Card.TLabelframe')
+        frm_prev.pack(fill='x', pady=(0, 10), ipadx=6, ipady=6)
+        self.preview = tk.Text(frm_prev, height=12, state='disabled', bg='#12141a', fg=DESC,
+                               relief='flat', borderwidth=0, font=FONT_SM, wrap='word', padx=10, pady=8)
+        self.preview.pack(fill='both', expand=True, padx=4, pady=4)
+        self.preview.tag_config('head', foreground=ACCENT, font=FONT_BOLD)
+        self.preview.tag_config('warn', foreground=WARN)
+
+        # 日志
         frm_log = ttk.LabelFrame(right, text=' 运行日志 ', style='Card.TLabelframe')
         frm_log.pack(fill='both', expand=True, ipadx=6, ipady=6)
         self.log_txt = tk.Text(frm_log, height=24, state='disabled', bg='#0f1115', fg=TEXT,
@@ -164,16 +168,14 @@ class App:
         self.log_txt.pack(fill='both', expand=True)
         self.log_txt.tag_config('ok', foreground=OK)
         self.log_txt.tag_config('err', foreground=ERR)
-        hint = ttk.Label(right, style='Muted.TLabel',
-                         text='提示：需先进入离线单机；灵魂石功能请先在营地打开“灵魂刻印”界面。')
-        hint.pack(anchor='w', pady=(6, 0))
+        ttk.Label(right, style='Muted.TLabel',
+                  text='提示：需先进入离线单机；灵魂石功能请先在营地打开“灵魂刻印”界面。').pack(anchor='w', pady=(6, 0))
 
         self.log('欢迎使用。点击右上角「连接游戏」开始。')
-        self.log(f'已加载：灵魂石词条 {len(self.affix_labels)} 条，可获取物品 {len(self.items)} 项')
+        self.log(f'已加载：灵魂石词条 {len(self.affix_labels)} 条（含作用说明），可获取物品 {len(self.items)} 项')
         self.root.after(120, self.poll)
         self.root.protocol('WM_DELETE_WINDOW', self.on_close)
 
-    # ---------- 基础 ----------
     def num(self, entry):
         try:
             return float(entry.get())
@@ -221,7 +223,6 @@ class App:
         except Exception as e:
             self.log('[错误] ' + str(e))
 
-    # ---------- 资源 ----------
     def res_code(self):
         sel = self.res_combo.current()
         return RES_TYPES[sel][1] if sel >= 0 else 5
@@ -241,14 +242,13 @@ class App:
         code = self.res_code(); lv = int(self.res_level.get() or 0) if code == 14 else 0
         self.send('setres', v, code, lv)
 
-    # ---------- 物品 ----------
     def on_cat_change(self, event=None):
         cat = self.cat_combo.get()
         labels = []; self.item_map = {}
         for r in self.items:
             if r.get('cat') != cat: continue
-            label = f"{r['name']} ({r['id']})"
-            labels.append(label); self.item_map[label] = (r['id'], r['itemType'])
+            L = f"{r['name']} ({r['id']})"
+            labels.append(L); self.item_map[L] = (r['id'], r['itemType'])
         self.item_combo.configure(values=labels)
         self.item_combo.set(labels[0] if labels else '')
 
@@ -259,7 +259,54 @@ class App:
         iid, itype = sel
         self.send('give', iid, itype, 1 if self.drop_var.get() else 0)
 
-    # ---------- 灵魂石 ----------
+    # ------- 石头预览 -------
+    def update_preview(self, event=None):
+        if not hasattr(self, 'preview'):
+            return
+        m = self.affix_row.get(self.gem_main.get())
+        sub_label = self.gem_sub.get()
+        s = None if sub_label.startswith('【无】') else self.affix_row.get(sub_label)
+        try: lv = int(self.gem_level_var.get())
+        except Exception: lv = 5
+
+        self.preview.configure(state='normal')
+        self.preview.delete('1.0', 'end')
+        if not m:
+            self.preview.insert('end', '请选择主词条', 'warn')
+            self.preview.configure(state='disabled'); return
+
+        count = '2（双词条）' if s else '1（单词条）'
+        self.preview.insert('end', '形状  ', 'head'); self.preview.insert('end', f"{m['slot']}（由主词条决定）\n")
+        self.preview.insert('end', '类型  ', 'head'); self.preview.insert('end', f"{m['rare']} 级   等级 Lv{lv}   词条数 {count}\n\n")
+
+        self.preview.insert('end', '主词条  ', 'head')
+        self.preview.insert('end', f"{m['name']}  [{m['id']}]  上限 Lv{m['maxLevel']}  限制 {m['weapon']}\n")
+        self.preview.insert('end', f"        {m.get('desc','') or '—'}\n", 'warn' if not m.get('desc') else '')
+
+        if s:
+            self.preview.insert('end', '\n副词条  ', 'head')
+            self.preview.insert('end', f"{s['name']}  [{s['id']}]  上限 Lv{s['maxLevel']}  限制 {s['weapon']}\n")
+            self.preview.insert('end', f"        {s.get('desc','') or '—'}\n")
+        else:
+            self.preview.insert('end', '\n副词条  ', 'head'); self.preview.insert('end', '无（单词条石头）\n')
+
+        # 冲突提示
+        warns = []
+        mw, sw = m.get('weapon',''), (s or {}).get('weapon','')
+        if mw != '全武器':
+            warns.append(f'主词条限用于「{mw}」，该石头只能给对应武器使用')
+        if s and sw and sw != '全武器' and mw != '全武器' and sw != mw:
+            warns.append(f'主/副词条武器限制不同（{mw} / {sw}），可能无法同时生效')
+        if lv > m['maxLevel']:
+            warns.append(f'等级超过主词条上限 Lv{m["maxLevel"]}，游戏可能拒绝')
+        if s and lv > s['maxLevel']:
+            warns.append(f'等级超过副词条上限 Lv{s["maxLevel"]}，游戏可能拒绝')
+        if warns:
+            self.preview.insert('end', '\n提示\n', 'head')
+            for w in warns:
+                self.preview.insert('end', '· ' + w + '\n', 'warn')
+        self.preview.configure(state='disabled')
+
     def make_gem(self):
         if not self.affix_labels:
             self.log('[错误] 词条表缺失（gem_affix.json）'); return
@@ -267,11 +314,10 @@ class App:
         sub_id = self.sub_map.get(self.gem_sub.get())
         if main_id is None or sub_id is None:
             self.log('[错误] 请选择主/副词条'); return
-        try: lv = int(self.gem_level.get())
+        try: lv = int(self.gem_level_var.get())
         except Exception: lv = 5
         self.send('gem', main_id, sub_id, lv)
 
-    # ---------- 消息 ----------
     def on_msg(self, message, data):
         try: self.mq.put(message)
         except Exception: pass

@@ -5,7 +5,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对哥布林种族伤害增加数值",
+"en": "Goblin Exp"
 },
 {
 "id": "Gem#C_002",
@@ -13,7 +15,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对不死族伤害增加数值",
+"en": "Undead Bane"
 },
 {
 "id": "Gem#C_003",
@@ -21,7 +25,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对恶魔族伤害增加数值",
+"en": "Demon Hunt"
 },
 {
 "id": "Gem#C_004",
@@ -29,7 +35,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对岩石傀儡伤害增加数值",
+"en": "Miner"
 },
 {
 "id": "Gem#C_005",
@@ -37,7 +45,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对龙类伤害增加数值",
+"en": "Dragon Hunt"
 },
 {
 "id": "Gem#C_006",
@@ -45,7 +55,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对蜥蜴人伤害增加数值",
+"en": "Cold-Blood"
 },
 {
 "id": "Gem#C_007",
@@ -53,7 +65,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "跳跃攻击伤害增加数值",
+"en": "Jump Dmg"
 },
 {
 "id": "Gem#C_011",
@@ -61,7 +75,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "主动道具伤害增加数值",
+"en": "Item Mast"
 },
 {
 "id": "Gem#C_012",
@@ -69,7 +85,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对未受到伤害的敌人伤害提高增加数值",
+"en": "Ambush"
 },
 {
 "id": "Gem#C_020",
@@ -77,7 +95,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯投掷虚灵造成的伤害提升数值",
+"en": "Shadowweave's Essence Ⅱ"
 },
 {
 "id": "Gem#C_023",
@@ -85,7 +105,9 @@
 "slot": "三角",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖攻击获得法杖爆发值的效率提升数值",
+"en": "Mage's Essence I"
 },
 {
 "id": "Gem#B_005",
@@ -93,7 +115,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对首领级怪物伤害增加数值",
+"en": "Giant Hunt"
 },
 {
 "id": "Gem#B_006",
@@ -101,7 +125,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "连击最后一击伤害增加数值",
+"en": "Finishing Blow"
 },
 {
 "id": "Gem#B_007",
@@ -109,7 +135,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "投掷攻击伤害增加数值",
+"en": "Throw Boost"
 },
 {
 "id": "Gem#B_008",
@@ -117,7 +145,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击伤害增加数值",
+"en": "Light Dmg"
 },
 {
 "id": "Gem#B_009",
@@ -125,7 +155,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "特殊动作伤害增加数值",
+"en": "Spec Dmg"
 },
 {
 "id": "Gem#B_011",
@@ -133,7 +165,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "使用表情”出发\"后攻击增加数值持续数值秒",
+"en": "Jump Dmg"
 },
 {
 "id": "Gem#B_012",
@@ -141,7 +175,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对精英敌人伤害增加数值",
+"en": "Elite"
 },
 {
 "id": "Gem#B_014",
@@ -149,7 +185,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对受到异常效果影响的敌人伤害增加数值",
+"en": "Elem Master"
 },
 {
 "id": "Gem#B_016",
@@ -157,7 +195,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "对生命低于数值的敌人伤害提高数值",
+"en": "Execute"
 },
 {
 "id": "Gem#B_026",
@@ -165,7 +205,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖消耗法力获得的法杖爆发值提升数值",
+"en": "Mage's Essence VI"
 },
 {
 "id": "Gem#B_028",
@@ -173,7 +215,9 @@
 "slot": "三角",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯附近每有1名友方，直接攻击伤害提升数值，最高数值",
+"en": "Shadowweave's Essence V"
 },
 {
 "id": "Gem#A_007",
@@ -181,7 +225,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击敌人后背时伤害增加数值",
+"en": "Backstab"
 },
 {
 "id": "Gem#A_008",
@@ -189,7 +235,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "数值米以外的攻击伤害增加数值",
+"en": "Ranged"
 },
 {
 "id": "Gem#A_009",
@@ -197,7 +245,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "数值米以内攻击伤害增加数值",
+"en": "Melee"
 },
 {
 "id": "Gem#A_012",
@@ -205,7 +255,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "击杀后回复数值法力",
+"en": "Arcane Recovery"
 },
 {
 "id": "Gem#A_014",
@@ -213,7 +265,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "增加数值",
+"en": "Elemental Dmg"
 },
 {
 "id": "Gem#A_016",
@@ -221,7 +275,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "红色符文斩击蓝色符文弹绿色符文震击符文攻击伤害增加数值",
+"en": "Rune Dmg"
 },
 {
 "id": "Gem#A_017",
@@ -229,7 +285,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "击杀敌人后攻击提高数值，持续数值秒",
+"en": "Kill Streak"
 },
 {
 "id": "Gem#A_026",
@@ -237,7 +295,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "召唤物的攻击提高数值",
+"en": "Summoner"
 },
 {
 "id": "Gem#A_027",
@@ -245,7 +305,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "元素异常积累速度提高数值",
+"en": "Witchcraft"
 },
 {
 "id": "Gem#A_028",
@@ -253,7 +315,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "双手"
+"weapon": "双手",
+"desc": "双手武器蓄力攻击和蓄力攻击的伤害提高数值",
+"en": "Heavy Warrior's Essence I"
 },
 {
 "id": "Gem#A_030",
@@ -261,7 +325,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 5,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳钻拳攻击伤害提升数值",
+"en": "Blaster's Essence Ⅰ"
 },
 {
 "id": "Gem#A_031",
@@ -269,7 +335,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪手雷伤害提高数值",
+"en": "Musketeer's EssenceⅠ"
 },
 {
 "id": "Gem#A_033",
@@ -277,7 +345,9 @@
 "slot": "三角",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "双刃"
+"weapon": "双刃",
+"desc": "双刃极限闪避成功后攻击提高数值，持续数值秒",
+"en": "Swift Blade's Essence Ⅲ"
 },
 {
 "id": "Gem#S_001",
@@ -285,7 +355,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击增加数值",
+"en": "Attack Boost"
 },
 {
 "id": "Gem#S_002",
@@ -293,7 +365,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "暴击增加数值",
+"en": "Crit Boost"
 },
 {
 "id": "Gem#S_003",
@@ -301,7 +375,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "技能伤害增加数值",
+"en": "Skill Dmg"
 },
 {
 "id": "Gem#S_004",
@@ -309,7 +385,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "暴击伤害增加数值",
+"en": "Crit Dmg Boost"
 },
 {
 "id": "Gem#S_006",
@@ -317,7 +395,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命低于数值时，攻击增加数值",
+"en": "Back Wall"
 },
 {
 "id": "Gem#S_011",
@@ -325,7 +405,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "直接攻击伤害提高数值",
+"en": "Sharp Blade"
 },
 {
 "id": "Gem#S_012",
@@ -333,7 +415,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "每移动数值米，攻击提高数值，持续数值秒",
+"en": "Azure Dragon"
 },
 {
 "id": "Gem#S_013",
@@ -341,7 +425,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击增加数值，受到来自敌人的伤害提高数值",
+"en": "Berserker"
 },
 {
 "id": "Gem#S_020",
@@ -349,7 +435,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命满时攻击提高数值",
+"en": "Unscathed"
 },
 {
 "id": "Gem#S_023",
@@ -357,7 +445,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 20,
-"weapon": "武士刀"
+"weapon": "武士刀",
+"desc": "武士刀攻击额外获得数值点武士刀能量",
+"en": "Swordsman's Essence II"
 },
 {
 "id": "Gem#S_026",
@@ -365,7 +455,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "弓"
+"weapon": "弓",
+"desc": "弓直接攻击击中敌人触发爆裂的概率提高数值",
+"en": "Ranger's Essence Ⅴ"
 },
 {
 "id": "Gem#S_028",
@@ -373,7 +465,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 20,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪首发子弹的幸运子弹触发概率增加数值",
+"en": "Musketeer's Essence V"
 },
 {
 "id": "Gem#S_031",
@@ -381,7 +475,9 @@
 "slot": "三角",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "双刃"
+"weapon": "双刃",
+"desc": "双刃每移动数值米，直接攻击伤害提升数值，持续数值秒",
+"en": "Swift Blade's Essence II"
 },
 {
 "id": "Gem#C_013",
@@ -389,7 +485,9 @@
 "slot": "方形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "喝药水生命药水时受到伤害降低数值",
+"en": "Calm"
 },
 {
 "id": "Gem#C_014",
@@ -397,7 +495,9 @@
 "slot": "方形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受中毒效果降低（满级时免疫）",
+"en": "Poison Res"
 },
 {
 "id": "Gem#C_015",
@@ -405,7 +505,9 @@
 "slot": "方形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受冰冻效果降低（满级时免疫）",
+"en": "Ice Res"
 },
 {
 "id": "Gem#C_016",
@@ -413,7 +515,9 @@
 "slot": "方形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受灼烧效果降低（满级时免疫）",
+"en": "Fire Res"
 },
 {
 "id": "Gem#C_017",
@@ -421,7 +525,9 @@
 "slot": "方形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受感电效果降低（满级时免疫）",
+"en": "Elec Res"
 },
 {
 "id": "Gem#B_002",
@@ -429,7 +535,9 @@
 "slot": "方形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "来自背后的攻击伤害降低数值",
+"en": "Back Def"
 },
 {
 "id": "Gem#B_004",
@@ -437,7 +545,9 @@
 "slot": "方形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命上限增加数值点",
+"en": "Health"
 },
 {
 "id": "Gem#B_017",
@@ -445,7 +555,9 @@
 "slot": "方形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "进入新房间时获得生命上限数值的临时护盾",
+"en": "Shield"
 },
 {
 "id": "Gem#B_022",
@@ -453,7 +565,9 @@
 "slot": "方形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器格挡值提高数值点",
+"en": "Guardian's Essence I"
 },
 {
 "id": "Gem#A_003",
@@ -461,7 +575,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命上限增加数值",
+"en": "Health Boost"
 },
 {
 "id": "Gem#A_004",
@@ -469,7 +585,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "防御增加数值",
+"en": "Defense"
 },
 {
 "id": "Gem#A_015",
@@ -477,7 +595,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "当生命低于数值时，每秒回复数值点生命。",
+"en": "Self-Heal"
 },
 {
 "id": "Gem#A_019",
@@ -485,7 +605,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受击类宝藏时数值概率降低数值伤害",
+"en": "Luck"
 },
 {
 "id": "Gem#A_021",
@@ -493,7 +615,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命值转化比例增加数值",
+"en": "Vet"
 },
 {
 "id": "Gem#A_022",
@@ -501,7 +625,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命值恢复速度增加数值",
+"en": "Activate"
 },
 {
 "id": "Gem#A_023",
@@ -509,7 +635,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "被救援成功恢复的生命增加数值",
+"en": "Redeem"
 },
 {
 "id": "Gem#A_024",
@@ -517,7 +645,9 @@
 "slot": "方形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "力竭再起后数值秒内攻击增加数值",
+"en": "Unbreakable"
 },
 {
 "id": "Gem#S_005",
@@ -525,7 +655,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受到来自敌人的伤害降低数值",
+"en": "Dmg Reduct"
 },
 {
 "id": "Gem#S_008",
@@ -533,7 +665,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "每进入一个新的有效房间，获得相当于自身法力数值的",
+"en": "Despot"
 },
 {
 "id": "Gem#S_010",
@@ -541,7 +675,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "生命低于数值时，所有生命恢复效果额外提升数值",
+"en": "Grit"
 },
 {
 "id": "Gem#S_014",
@@ -549,7 +685,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "击杀怪物有数值的概率回复数值点生命",
+"en": "Bloodthirst"
 },
 {
 "id": "Gem#S_015",
@@ -557,7 +695,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受到首领级怪物的伤害降低数值",
+"en": "Leader Reduct"
 },
 {
 "id": "Gem#S_016",
@@ -565,7 +705,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "暴击触发有数值的概率回复数值点生命",
+"en": "Zeal"
 },
 {
 "id": "Gem#S_017",
@@ -573,7 +715,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "受到伤害降低数值点",
+"en": "Tough"
 },
 {
 "id": "Gem#S_021",
@@ -581,7 +725,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "所有生命恢复效果额外提升数值",
+"en": "Healing Boost"
 },
 {
 "id": "Gem#S_025",
@@ -589,7 +735,9 @@
 "slot": "方形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "双手"
+"weapon": "双手",
+"desc": "双手武器蓄力和双手武器期间受到伤害降低数值",
+"en": "Heavy Warrior’s Essence V"
 },
 {
 "id": "Gem#C_008",
@@ -597,7 +745,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "药水生命药水上限增加数值%",
+"en": "Elixir Exp"
 },
 {
 "id": "Gem#C_009",
@@ -605,7 +755,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "喝下药水生命药水时获得等于回复量数值的临时护盾",
+"en": "Elixir Shield"
 },
 {
 "id": "Gem#C_010",
@@ -613,7 +765,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "进入新房间时回复数值药水生命药水",
+"en": "Elixir Recov"
 },
 {
 "id": "Gem#C_018",
@@ -621,7 +775,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "喝药水生命药水时有数值概率产生香蕉皮",
+"en": "Eat and Drink"
 },
 {
 "id": "Gem#C_019",
@@ -629,7 +785,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳每秒获得数值点钻拳蒸汽值。",
+"en": "Blaster's Essence II"
 },
 {
 "id": "Gem#C_021",
@@ -637,7 +795,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 15,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪子弹上限减少数值(最少1颗)",
+"en": "Musketeer's Essence II"
 },
 {
 "id": "Gem#C_022",
@@ -645,7 +805,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 15,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪子弹上限增加数值",
+"en": "Musketeer's Essence III"
 },
 {
 "id": "Gem#C_024",
@@ -653,7 +815,9 @@
 "slot": "圆形",
 "rare": "C",
 "maxLevel": 10,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖消耗法杖技能值恢复的法力提升数值",
+"en": "Mage's Essence II"
 },
 {
 "id": "Gem#B_001",
@@ -661,7 +825,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "药水生命药水回复效果的数值会对周围所有的友方生效",
+"en": "Mutual Aid"
 },
 {
 "id": "Gem#B_003",
@@ -669,7 +835,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "法力上限增加数值点",
+"en": "Mana"
 },
 {
 "id": "Gem#B_010",
@@ -677,7 +845,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "救援队友成功时，队友恢复的生命增加数值",
+"en": "Healer"
 },
 {
 "id": "Gem#B_013",
@@ -685,7 +855,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "破坏可破坏物体有数值概率掉落生命能量",
+"en": "Scav"
 },
 {
 "id": "Gem#B_015",
@@ -693,7 +865,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "每秒回复数值点法力",
+"en": "Mana Regen"
 },
 {
 "id": "Gem#B_018",
@@ -701,7 +875,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "举着物体时移动速度提升数值",
+"en": "Athlete"
 },
 {
 "id": "Gem#B_019",
@@ -709,7 +885,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "力竭时爬行速度提升数值",
+"en": "Survival Will"
 },
 {
 "id": "Gem#B_020",
@@ -717,7 +895,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "跳跃距离增加数值",
+"en": "Jump"
 },
 {
 "id": "Gem#B_021",
@@ -725,7 +905,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "闪避后回复数值点法力",
+"en": "Kinetic energy recovery"
 },
 {
 "id": "Gem#B_023",
@@ -733,7 +915,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器格挡值回复速度提高数值",
+"en": "Guardian's Essence II"
 },
 {
 "id": "Gem#B_024",
@@ -741,7 +925,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯幻影复活速度提升数值",
+"en": "Shadowweave's Essence Ⅰ"
 },
 {
 "id": "Gem#B_025",
@@ -749,7 +935,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "武士刀"
+"weapon": "武士刀",
+"desc": "武士刀格挡成功获得数值点武士刀能量",
+"en": "Swordsman's Essence I"
 },
 {
 "id": "Gem#B_027",
@@ -757,7 +945,9 @@
 "slot": "圆形",
 "rare": "B",
 "maxLevel": 10,
-"weapon": "双刃"
+"weapon": "双刃",
+"desc": "双刃极限闪避成功获得数值点肾上腺素",
+"en": "Swift Blade's Essence IV"
 },
 {
 "id": "Gem#A_001",
@@ -765,7 +955,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "闪避距离增加数值",
+"en": "Dodge Distance"
 },
 {
 "id": "Gem#A_002",
@@ -773,7 +965,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "法力上限增加数值",
+"en": "Mana Boost"
 },
 {
 "id": "Gem#A_005",
@@ -781,7 +975,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "移动速度增加数值",
+"en": "Move Speed"
 },
 {
 "id": "Gem#A_006",
@@ -789,7 +985,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击失衡值增加数值",
+"en": "Stun"
 },
 {
 "id": "Gem#A_010",
@@ -797,7 +995,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "救援时间缩短数值",
+"en": "Rescue"
 },
 {
 "id": "Gem#A_011",
@@ -805,7 +1005,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "造成元素异常时回复一定的法力（不同异常回复的法力不同）",
+"en": "Mana Recovery"
 },
 {
 "id": "Gem#A_013",
@@ -813,7 +1015,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "闪避无敌时间延长数值",
+"en": "Dodge Perf"
 },
 {
 "id": "Gem#A_018",
@@ -821,7 +1025,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "武器技能的法力消耗降低数值",
+"en": "Skill Cost"
 },
 {
 "id": "Gem#A_020",
@@ -829,7 +1035,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "新增武器附魔的消耗减少数值 魔铁锭",
+"en": "Smith"
 },
 {
 "id": "Gem#A_025",
@@ -837,7 +1045,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "完美闪避后恢复数值点法力",
+"en": "Calm Down"
 },
 {
 "id": "Gem#A_029",
@@ -845,7 +1055,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "弓"
+"weapon": "弓",
+"desc": "弓弓箭攻击额外会获得数值点弓箭技能值",
+"en": "Ranger's Essence Ⅰ"
 },
 {
 "id": "Gem#A_032",
@@ -853,7 +1065,9 @@
 "slot": "圆形",
 "rare": "A",
 "maxLevel": 10,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖当前每拥有1个法杖技能值使移动速度提升数值",
+"en": "Mage's Essence V"
 },
 {
 "id": "Gem#S_007",
@@ -861,7 +1075,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "所有法力恢复效果额外提升数值",
+"en": "Mana Recov"
 },
 {
 "id": "Gem#S_009",
@@ -869,7 +1085,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "攻击回复法力提高数值",
+"en": "Mana Gain"
 },
 {
 "id": "Gem#S_018",
@@ -877,7 +1095,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "主动道具充能间隔减少数值",
+"en": "Kit Setup"
 },
 {
 "id": "Gem#S_019",
@@ -885,7 +1105,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "力竭后的飞扑伤害提升数值点",
+"en": "Leap"
 },
 {
 "id": "Gem#S_022",
@@ -893,7 +1115,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 5,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "分解宝藏返还的魂晶增加数值",
+"en": "Decomposition Mastery"
 },
 {
 "id": "Gem#S_024",
@@ -901,7 +1125,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 10,
-"weapon": "双手"
+"weapon": "双手",
+"desc": "双手武器蓄力速度提升数值",
+"en": "Heavy Warrior’s Essence IV"
 },
 {
 "id": "Gem#S_027",
@@ -909,7 +1135,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 20,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳闪避 右侧 转身动能转换额外增加数值点的钻拳蒸汽值",
+"en": "Blaster's Essence Ⅵ"
 },
 {
 "id": "Gem#S_029",
@@ -917,7 +1145,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 5,
-"weapon": "武士刀"
+"weapon": "武士刀",
+"desc": "武士刀“乱舞”最大持续时间增加数值秒，每次获得“乱舞”状态时额外获得数值秒持续时间",
+"en": "Swordsman's Essence Ⅴ"
 },
 {
 "id": "Gem#S_030",
@@ -925,7 +1155,9 @@
 "slot": "圆形",
 "rare": "S",
 "maxLevel": 20,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器盾牌投掷命中时回复数值点格挡值",
+"en": "Guardian's Essence VI"
 },
 {
 "id": "Gem#X_001",
@@ -933,7 +1165,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "获得弱元素属性附魔，属性取决于当前拥有元素属性加成的宝藏数量，默认为火焰属性",
+"en": "Simple Enchantment"
 },
 {
 "id": "Gem#X_002",
@@ -941,7 +1175,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "直接攻击有概率触发所有击杀效果，冷却时间数值秒",
+"en": "Sudden Death"
 },
 {
 "id": "Gem#X_003",
@@ -949,7 +1185,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "你可以救援你正举着的力竭队友",
+"en": "Healing Warden"
 },
 {
 "id": "Gem#X_004",
@@ -957,7 +1195,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "直接攻击有数值概率额外造成一次较弱的伤害",
+"en": "Afterimage"
 },
 {
 "id": "Gem#X_005",
@@ -965,7 +1205,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "喝药水生命药水时获得霸体",
+"en": "Endure"
 },
 {
 "id": "Gem#X_006",
@@ -973,7 +1215,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "救援队友时获得霸体",
+"en": "Battle Medic"
 },
 {
 "id": "Gem#X_007",
@@ -981,7 +1225,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器格挡值回复时间延长数值。单手武器时攻击提升数值。",
+"en": "Guardian's Essence III"
 },
 {
 "id": "Gem#X_008",
@@ -989,7 +1235,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器增加数值获得复仇印记概率。",
+"en": "Guardian's Essence IV"
 },
 {
 "id": "Gem#X_009",
@@ -997,7 +1245,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "单手"
+"weapon": "单手",
+"desc": "单手武器单手武器可以防御来自背后的攻击",
+"en": "Guardian's Essence Ⅴ"
 },
 {
 "id": "Gem#X_010",
@@ -1005,7 +1255,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "双手"
+"weapon": "双手",
+"desc": "双手武器任意非蓄力动作中获得的双手武器都可累积至第三层",
+"en": "Heavy Warrior’s Essence II"
 },
 {
 "id": "Gem#X_011",
@@ -1013,7 +1265,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "双手"
+"weapon": "双手",
+"desc": "双手武器双手武器可以中断大部分动作且动作速度加快",
+"en": "Heavy Warrior’s Essence III"
 },
 {
 "id": "Gem#X_012",
@@ -1021,7 +1275,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "弓"
+"weapon": "弓",
+"desc": "弓触发爆裂有数值概率重复一次。",
+"en": "Ranger's Essence Ⅱ"
 },
 {
 "id": "Gem#X_013",
@@ -1029,7 +1285,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "弓"
+"weapon": "弓",
+"desc": "弓弓和弓箭攻击可穿透1个敌人。",
+"en": "Ranger's Essence III"
 },
 {
 "id": "Gem#X_014",
@@ -1037,7 +1295,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "弓"
+"weapon": "弓",
+"desc": "弓使用弓后特殊动作伤害提升数值，持续数值秒，最高叠加至数值",
+"en": "Ranger's Essence IV"
 },
 {
 "id": "Gem#X_015",
@@ -1045,7 +1305,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳钻拳蒸汽值上限提升数值点",
+"en": "Blaster's Essence III"
 },
 {
 "id": "Gem#X_016",
@@ -1053,7 +1315,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳钻拳过顶模块下钻拳攻击伤害提升数值，且钻拳安全模块持续时间延长数值",
+"en": "Blaster's Essence IV"
 },
 {
 "id": "Gem#X_017",
@@ -1061,7 +1325,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "钻拳"
+"weapon": "钻拳",
+"desc": "钻拳攻击有数值概率触发1次最低威力的泄压炮",
+"en": "Blaster's Essence V"
 },
 {
 "id": "Gem#X_018",
@@ -1069,7 +1335,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "双刃"
+"weapon": "双刃",
+"desc": "双刃直接攻击击中有概率回复主动道具充能，且主动道具在进入新房间后使用次数完全回复",
+"en": "Swift Blade's Essence Ⅰ"
 },
 {
 "id": "Gem#X_019",
@@ -1077,7 +1345,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯幻影会每秒回复数值生命",
+"en": "Shadowweave's Essence III"
 },
 {
 "id": "Gem#X_020",
@@ -1085,7 +1355,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯直接攻击额外获得数值虚灵灯能量。虚灵灯能量上限提升数值",
+"en": "Shadowweave's Essence IV"
 },
 {
 "id": "Gem#X_021",
@@ -1093,7 +1365,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪火枪上限增加数值",
+"en": "Musketeer's Essence IV"
 },
 {
 "id": "Gem#X_022",
@@ -1101,7 +1375,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖消耗法杖技能值获得数值技能伤害，持续数值秒，可叠加数值次",
+"en": "Mage's Essence III"
 },
 {
 "id": "Gem#X_023",
@@ -1109,7 +1385,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "法杖"
+"weapon": "法杖",
+"desc": "法杖当前每拥有1个法杖技能值使攻击提升数值",
+"en": "Mage's Essence IV"
 },
 {
 "id": "Gem#X_025",
@@ -1117,7 +1395,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "武士刀"
+"weapon": "武士刀",
+"desc": "武士刀武士刀蓄力时每秒获得数值点武士刀能量",
+"en": "Swordsman's Essence III"
 },
 {
 "id": "Gem#X_026",
@@ -1125,7 +1405,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "武士刀"
+"weapon": "武士刀",
+"desc": "武士刀格挡成功后直接攻击伤害提升数值，持续数值秒",
+"en": "Swordsman's Essence IV"
 },
 {
 "id": "Gem#X_027",
@@ -1133,7 +1415,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "全武器"
+"weapon": "全武器",
+"desc": "获得数值级中毒、冰冻、灼烧、感电抗性的效果",
+"en": "Tortoise Guardian"
 },
 {
 "id": "Gem#X_028",
@@ -1141,7 +1425,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪每隔一段时间空投强化弹药补给，额外的子弹上限加成效果会影响补给量。",
+"en": "Musketeer's Essence VI"
 },
 {
 "id": "Gem#X_029",
@@ -1149,7 +1435,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "双刃"
+"weapon": "双刃",
+"desc": "双刃周围每存在1个敌人，每秒获得数值点肾上腺素。（首领相当于数值个敌人）",
+"en": "Swift Blade's Essence V"
 },
 {
 "id": "Gem#X_030",
@@ -1157,7 +1445,9 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "虚灵灯"
+"weapon": "虚灵灯",
+"desc": "虚灵灯每使1名友方获得激励，获得数值点虚灵灯能量",
+"en": "Shadowweave's Essence VI"
 },
 {
 "id": "Gem#X_031",
@@ -1165,6 +1455,8 @@
 "slot": "六角",
 "rare": "X",
 "maxLevel": 1,
-"weapon": "火枪"
+"weapon": "火枪",
+"desc": "火枪投掷击中时有数值概率生成一个会吸引敌人和场景物件（包括手雷）的小型黑洞",
+"en": "Musketeer's Essence VII"
 }
 ]
