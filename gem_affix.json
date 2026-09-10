@@ -1,0 +1,1170 @@
+[
+{
+"id": "Gem#C_001",
+"name": "哥布林专家",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_002",
+"name": "不死族克星",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_003",
+"name": "恶魔猎人",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_004",
+"name": "矿工",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_005",
+"name": "猎龙者",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_006",
+"name": "冷血动物",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_007",
+"name": "跳跃连击",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_011",
+"name": "道具精通",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_012",
+"name": "偷袭",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_020",
+"name": "提灯精粹Ⅱ",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#C_023",
+"name": "法杖精粹Ⅰ",
+"slot": "三角",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "法杖"
+},
+{
+"id": "Gem#B_005",
+"name": "狩猎巨人",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_006",
+"name": "终结一击",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_007",
+"name": "投掷强化",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_008",
+"name": "普攻增伤",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_009",
+"name": "特殊增伤",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_011",
+"name": "心里暗示",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_012",
+"name": "精锐",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_014",
+"name": "折磨",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_016",
+"name": "斩杀",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_026",
+"name": "法杖精粹VI",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "法杖"
+},
+{
+"id": "Gem#B_028",
+"name": "提灯精粹V",
+"slot": "三角",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#A_007",
+"name": "背刺",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_008",
+"name": "远程",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_009",
+"name": "近战",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_012",
+"name": "法能回收",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_014",
+"name": "元素使",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_016",
+"name": "符文亲和",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_017",
+"name": "勇士",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_026",
+"name": "召唤师",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_027",
+"name": "巫术",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_028",
+"name": "大剑精粹Ⅰ",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "双手"
+},
+{
+"id": "Gem#A_030",
+"name": "涡炉枪精粹Ⅰ",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 5,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#A_031",
+"name": "火枪精粹Ⅰ",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "火枪"
+},
+{
+"id": "Gem#A_033",
+"name": "双刀精粹III",
+"slot": "三角",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "双刃"
+},
+{
+"id": "Gem#S_001",
+"name": "攻击强化",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_002",
+"name": "暴击强化",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_003",
+"name": "技能伤害",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_004",
+"name": "暴击伤害强化",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_006",
+"name": "背水",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_011",
+"name": "白虎",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_012",
+"name": "青龙",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_013",
+"name": "狂战士",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_020",
+"name": "无伤",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_023",
+"name": "太刀精粹Ⅱ",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 20,
+"weapon": "武士刀"
+},
+{
+"id": "Gem#S_026",
+"name": "弓箭精粹Ⅴ",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "弓"
+},
+{
+"id": "Gem#S_028",
+"name": "火枪精粹Ⅴ",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 20,
+"weapon": "火枪"
+},
+{
+"id": "Gem#S_031",
+"name": "双刀精粹II",
+"slot": "三角",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "双刃"
+},
+{
+"id": "Gem#C_013",
+"name": "沉稳",
+"slot": "方形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_014",
+"name": "毒抗性",
+"slot": "方形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_015",
+"name": "冰抗性",
+"slot": "方形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_016",
+"name": "火抗性",
+"slot": "方形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_017",
+"name": "电抗性",
+"slot": "方形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_002",
+"name": "后背防御",
+"slot": "方形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_004",
+"name": "生命值",
+"slot": "方形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_017",
+"name": "防护盾",
+"slot": "方形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_022",
+"name": "单手剑精粹Ⅰ",
+"slot": "方形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "单手"
+},
+{
+"id": "Gem#A_003",
+"name": "生命强化",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_004",
+"name": "防御",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_015",
+"name": "自愈",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_019",
+"name": "侥幸",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_021",
+"name": "老练",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_022",
+"name": "活化",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_023",
+"name": "救赎",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_024",
+"name": "不屈",
+"slot": "方形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_005",
+"name": "减伤",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_008",
+"name": "法力护盾",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_010",
+"name": "复苏",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_014",
+"name": "嗜血",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_015",
+"name": "首领减伤",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_016",
+"name": "狂热",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_017",
+"name": "坚韧",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_021",
+"name": "回复效果提升",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_025",
+"name": "大剑精粹Ⅴ",
+"slot": "方形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "双手"
+},
+{
+"id": "Gem#C_008",
+"name": "灵药扩容",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_009",
+"name": "灵药护盾",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_010",
+"name": "灵药回复",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_018",
+"name": "胡吃海喝",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#C_019",
+"name": "涡炉枪精粹Ⅱ",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#C_021",
+"name": "火枪精粹Ⅱ",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 15,
+"weapon": "火枪"
+},
+{
+"id": "Gem#C_022",
+"name": "火枪精粹Ⅲ",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 15,
+"weapon": "火枪"
+},
+{
+"id": "Gem#C_024",
+"name": "法杖精粹Ⅱ",
+"slot": "圆形",
+"rare": "C",
+"maxLevel": 10,
+"weapon": "法杖"
+},
+{
+"id": "Gem#B_001",
+"name": "友爱",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_003",
+"name": "法力值",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_010",
+"name": "医生",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_013",
+"name": "拾荒",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_015",
+"name": "法力值回复",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_018",
+"name": "健将",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_019",
+"name": "求生意志",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_020",
+"name": "跳跃",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_021",
+"name": "动能回收",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#B_023",
+"name": "单手剑精粹Ⅱ",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "单手"
+},
+{
+"id": "Gem#B_024",
+"name": "提灯精粹Ⅰ",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#B_025",
+"name": "太刀精粹Ⅰ",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "武士刀"
+},
+{
+"id": "Gem#B_027",
+"name": "双刀精粹IV",
+"slot": "圆形",
+"rare": "B",
+"maxLevel": 10,
+"weapon": "双刃"
+},
+{
+"id": "Gem#A_001",
+"name": "闪避距离",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_002",
+"name": "法力强化",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_005",
+"name": "移速",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_006",
+"name": "昏厥",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_010",
+"name": "极速救援",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_011",
+"name": "元素持久",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_013",
+"name": "闪避性能",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_018",
+"name": "技能消耗",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_020",
+"name": "铁匠",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_025",
+"name": "闪避回魔",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#A_029",
+"name": "弓箭精粹Ⅰ",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "弓"
+},
+{
+"id": "Gem#A_032",
+"name": "法杖精粹V",
+"slot": "圆形",
+"rare": "A",
+"maxLevel": 10,
+"weapon": "法杖"
+},
+{
+"id": "Gem#S_007",
+"name": "法力回复",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_009",
+"name": "法力值获取",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_018",
+"name": "猎具整备",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_019",
+"name": "飞扑",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_022",
+"name": "分解精通",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 5,
+"weapon": "全武器"
+},
+{
+"id": "Gem#S_024",
+"name": "大剑精粹Ⅳ",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 10,
+"weapon": "双手"
+},
+{
+"id": "Gem#S_027",
+"name": "涡炉枪精粹Ⅵ",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 20,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#S_029",
+"name": "太刀精粹Ⅴ",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 5,
+"weapon": "武士刀"
+},
+{
+"id": "Gem#S_030",
+"name": "单手剑精粹ⅤI",
+"slot": "圆形",
+"rare": "S",
+"maxLevel": 20,
+"weapon": "单手"
+},
+{
+"id": "Gem#X_001",
+"name": "简易附魔",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_002",
+"name": "骤死",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_003",
+"name": "医龙",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_004",
+"name": "幻影",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_005",
+"name": "忍耐",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_006",
+"name": "战场医师",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_007",
+"name": "单手剑精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "单手"
+},
+{
+"id": "Gem#X_008",
+"name": "单手剑精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "单手"
+},
+{
+"id": "Gem#X_009",
+"name": "单手剑精粹Ⅴ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "单手"
+},
+{
+"id": "Gem#X_010",
+"name": "大剑精粹Ⅱ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "双手"
+},
+{
+"id": "Gem#X_011",
+"name": "大剑精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "双手"
+},
+{
+"id": "Gem#X_012",
+"name": "弓箭精粹Ⅱ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "弓"
+},
+{
+"id": "Gem#X_013",
+"name": "弓箭精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "弓"
+},
+{
+"id": "Gem#X_014",
+"name": "弓箭精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "弓"
+},
+{
+"id": "Gem#X_015",
+"name": "涡炉枪精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#X_016",
+"name": "涡炉枪精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#X_017",
+"name": "涡炉枪精粹Ⅴ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "钻拳"
+},
+{
+"id": "Gem#X_018",
+"name": "双刀精粹Ⅰ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "双刃"
+},
+{
+"id": "Gem#X_019",
+"name": "提灯精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#X_020",
+"name": "提灯精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#X_021",
+"name": "火枪精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "火枪"
+},
+{
+"id": "Gem#X_022",
+"name": "法杖精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "法杖"
+},
+{
+"id": "Gem#X_023",
+"name": "法杖精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "法杖"
+},
+{
+"id": "Gem#X_025",
+"name": "太刀精粹Ⅲ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "武士刀"
+},
+{
+"id": "Gem#X_026",
+"name": "太刀精粹Ⅳ",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "武士刀"
+},
+{
+"id": "Gem#X_027",
+"name": "玄武",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "全武器"
+},
+{
+"id": "Gem#X_028",
+"name": "火枪精粹VI",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "火枪"
+},
+{
+"id": "Gem#X_029",
+"name": "双刀精粹V",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "双刃"
+},
+{
+"id": "Gem#X_030",
+"name": "提灯精粹VI",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "虚灵灯"
+},
+{
+"id": "Gem#X_031",
+"name": "枪手精粹VII",
+"slot": "六角",
+"rare": "X",
+"maxLevel": 1,
+"weapon": "火枪"
+}
+]

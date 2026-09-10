@@ -1,0 +1,5570 @@
+[
+{
+"id": "THW_001",
+"name": "生铁大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_002",
+"name": "铁木大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_005",
+"name": "圣堂大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_009",
+"name": "斩马大刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_013",
+"name": "铁制巨斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_024",
+"name": "哥布林奖杯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_028",
+"name": "铁质大砍刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_034",
+"name": "覆石之剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_039",
+"name": "灵木核心",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_012",
+"name": "邪灵仪式大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_014",
+"name": "黄铜图腾巨刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_015",
+"name": "岩石巨锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_016",
+"name": "蝠灵骑士大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_025",
+"name": "腐蚀守卫之剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_026",
+"name": "异兽之骨",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_046",
+"name": "坚冰碎片",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_045",
+"name": "硝石锈钢刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_049",
+"name": "猛毒猎爪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_003",
+"name": "皇家大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_007",
+"name": "巨人的火焰剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_018",
+"name": "魔晶守卫斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_020",
+"name": "黑金矿巨锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_027",
+"name": "龙鳞结晶巨剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_040",
+"name": "磐岩巨锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_043",
+"name": "机关旋刃斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_004",
+"name": "终始巨刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_010",
+"name": "烈焰骑士巨剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_011",
+"name": "坚冰之锋",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_019",
+"name": "猩红之锋",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_036",
+"name": "破坏者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_038",
+"name": "腐蚀帝国骑士断剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_041",
+"name": "斩魔",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_044",
+"name": "首领重斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_048",
+"name": "切割者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_050",
+"name": "扭曲大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_052",
+"name": "终极大剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_008",
+"name": "英雄史诗",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_017",
+"name": "烈焰巨斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_037",
+"name": "裁决之剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "THW_051",
+"name": "诡谲毁灭者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_001",
+"name": "铁制剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_002",
+"name": "铁木剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_005",
+"name": "圣堂剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_014",
+"name": "料理器具",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_024",
+"name": "钢铁短枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_026",
+"name": "附魔之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_027",
+"name": "哥布林短刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_029",
+"name": "树藤手斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_007",
+"name": "魔法学徒剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_008",
+"name": "守护方盾",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_009",
+"name": "黑铁刺锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_016",
+"name": "荒野住民",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_021",
+"name": "腐蚀守卫之盾",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_028",
+"name": "帝国制式剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_032",
+"name": "蛮族骨斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_038",
+"name": "毒棘短枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_035",
+"name": "大渔猎手",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_040",
+"name": "磐石之碑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_043",
+"name": "穿沙枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_003",
+"name": "皇家剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_010",
+"name": "熔炉剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_011",
+"name": "堡垒战斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_013",
+"name": "船长之遗",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_015",
+"name": "骑兵短枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_022",
+"name": "龙鳞结晶盾剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_023",
+"name": "腐坏寄生短枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_033",
+"name": "冰川短枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_037",
+"name": "军团标枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_039",
+"name": "虚空引力短剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_041",
+"name": "大工匠之锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_004",
+"name": "终始剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_006",
+"name": "恶魔凝视",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_012",
+"name": "邪魔之骨",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_017",
+"name": "炎龙之怒",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_018",
+"name": "冰霜剑装",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_030",
+"name": "星陨钢短剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_034",
+"name": "岩雷枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_036",
+"name": "卡利昂之枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_020",
+"name": "恶魔屠戮者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_042",
+"name": "永冻坚冰",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_045",
+"name": "噩梦碎片",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_046",
+"name": "扭曲之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_019",
+"name": "英勇战魂",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_025",
+"name": "英雄之枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_048",
+"name": "诡谲之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "SHW_047",
+"name": "诅咒之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_001",
+"name": "橡木法杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_002",
+"name": "铁木之蜥",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_003",
+"name": "贵族法杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_005",
+"name": "圣堂法杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_008",
+"name": "蓝晶石铜杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_011",
+"name": "冰霜低语",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_013",
+"name": "剧毒孢子之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_020",
+"name": "献祭之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_027",
+"name": "闪耀之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_028",
+"name": "冠军之证",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_032",
+"name": "剧毒喷吐者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_036",
+"name": "补给发信手杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_004",
+"name": "封印之眼",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_007",
+"name": "祝福之翼",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_009",
+"name": "邪恶凝视",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_010",
+"name": "恶魔宝珠",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_012",
+"name": "纯晶魔杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_023",
+"name": "试验型炼金催化器",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_029",
+"name": "帝国制式法杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_034",
+"name": "腐蚀圣职者权杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_041",
+"name": "吞噬者手杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_042",
+"name": "迫击杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_045",
+"name": "禁咒魔杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_018",
+"name": "巫毒祭祀手杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_021",
+"name": "恶龙的雷电晶核",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_022",
+"name": "收割者·原型",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_024",
+"name": "烈焰凝晶",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_025",
+"name": "极寒凝晶",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_033",
+"name": "雷电结晶",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_038",
+"name": "虚空引力宝珠",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_037",
+"name": "神秘传送权杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_043",
+"name": "纵冰之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_006",
+"name": "风暴之眼",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_014",
+"name": "熔岩手杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_015",
+"name": "终始之视",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_017",
+"name": "月神之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_019",
+"name": "日神之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_026",
+"name": "黑暗生机",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_044",
+"name": "噩梦幻象",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_046",
+"name": "扭曲之杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_016",
+"name": "灵石手杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_031",
+"name": "流星之力",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_035",
+"name": "君王子嗣",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_049",
+"name": "诡谲灭魂杖",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Staff_048",
+"name": "神奇摄像机",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_001",
+"name": "制式短管火枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_037",
+"name": "蜥蜴人火铳",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_003",
+"name": "制式滑膛枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_013",
+"name": "竹筒火枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_002",
+"name": "铁木大炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_023",
+"name": "哥布林大炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_007",
+"name": "木灵之手",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_042",
+"name": "寒地速射枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_015",
+"name": "狙射长铳",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_006",
+"name": "河流蛊铳",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_022",
+"name": "蒸汽轰击炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_035",
+"name": "荒漠暴徒手炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_026",
+"name": "荒漠仙人掌",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_004",
+"name": "炼金发射器",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_043",
+"name": "锈钢炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_008",
+"name": "贵族短铳",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_038",
+"name": "钢铁切割者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_014",
+"name": "贵族长管铳",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_021",
+"name": "低音号",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_032",
+"name": "改造手炮七式",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_034",
+"name": "暗物质火炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_005",
+"name": "蒸汽速射枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_031",
+"name": "玉米射手",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_040",
+"name": "结晶恶龙之首",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_009",
+"name": "火山轰击者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_020",
+"name": "冰川发射器",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_025",
+"name": "炎龙炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_027",
+"name": "魔晶聚焦器",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_029",
+"name": "噬元猛兽",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_033",
+"name": "魔导线圈",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_028",
+"name": "终始火炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_030",
+"name": "异型鱼骨",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_045",
+"name": "镇压者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_010",
+"name": "邪龙之骨",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_041",
+"name": "黄金毁灭者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Gun_046",
+"name": "魔神能量火炮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_001",
+"name": "铁制双刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_002",
+"name": "铁木双刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_005",
+"name": "圣堂双匕",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_007",
+"name": "铁制双斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_015",
+"name": "铁制双勾",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_022",
+"name": "肉馅制造者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_029",
+"name": "巨大的剪刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_008",
+"name": "仪典黄铜锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_016",
+"name": "神圣秘银短剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_017",
+"name": "逆刃双刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_018",
+"name": "河流双煞",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_023",
+"name": "腐蚀守卫双刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_033",
+"name": "蛮族骨锥",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_038",
+"name": "坚冰双刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_039",
+"name": "游沙之鳍",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_041",
+"name": "巫术骨刺",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_004",
+"name": "贵族双匕",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_006",
+"name": "恶魔双刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_010",
+"name": "黑铁双锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_013",
+"name": "琥珀之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_014",
+"name": "帝国卫队双刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_027",
+"name": "纯钧·胜邪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_030",
+"name": "巨岩碎片",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_031",
+"name": "闪电之锋",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_034",
+"name": "锋锐之羽",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_043",
+"name": "戮魔对剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_003",
+"name": "终始双刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_009",
+"name": "双狼牙棒",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_011",
+"name": "寂日之冰",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_012",
+"name": "满月之炎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_028",
+"name": "邪铁双刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_032",
+"name": "古戟巨刃碎片",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_035",
+"name": "狂战士血斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_036",
+"name": "风暴之斧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_040",
+"name": "傀儡熊爪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_019",
+"name": "冰与火之舞",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_020",
+"name": "黑白世界",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "DB_042",
+"name": "诡谲与欺诈",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_001",
+"name": "木制猎弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_002",
+"name": "铁木游侠弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_005",
+"name": "圣堂之弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_008",
+"name": "黄铜硬弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_015",
+"name": "绿宝石机关弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_017",
+"name": "蔷薇藤蔓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_026",
+"name": "木灵藤弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_004",
+"name": "腐蚀之翼",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_012",
+"name": "闪电快弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_016",
+"name": "邪魅之矢",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_022",
+"name": "炼金注射器",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_027",
+"name": "异化骨弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_029",
+"name": "帝国制式长弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_031",
+"name": "吞噬者长弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_035",
+"name": "猛毒猎弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_003",
+"name": "灵木强弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_007",
+"name": "帝国仪典弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_009",
+"name": "魔晶之弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_014",
+"name": "猩红荆棘",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_021",
+"name": "复合弓十一式改",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_024",
+"name": "虚空引力长弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_028",
+"name": "电光之弧",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_030",
+"name": "极地猎弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_032",
+"name": "幽狐弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_006",
+"name": "恶魔强弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_010",
+"name": "熔岩之击",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_011",
+"name": "狂牛之角",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_013",
+"name": "坚冰之矢",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_018",
+"name": "孢子长木弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_019",
+"name": "疾风之弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_025",
+"name": "黄金战弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_033",
+"name": "噩梦降临",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_034",
+"name": "噩梦残影",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_020",
+"name": "深渊凝视",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_023",
+"name": "圣木弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "Bow_036",
+"name": "堕落领主战弓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_001",
+"name": "铁炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_002",
+"name": "铁木之枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_005",
+"name": "圣堂炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_007",
+"name": "骑士炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_011",
+"name": "铁棘枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_013",
+"name": "南瓜炉",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_015",
+"name": "锈炉之枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_024",
+"name": "剧毒盆栽",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_008",
+"name": "黄铜炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_014",
+"name": "河流蛊枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_016",
+"name": "熔炉斧枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_019",
+"name": "密林新芽",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_022",
+"name": "精铁涡炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_025",
+"name": "邪恶炼金装置",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_026",
+"name": "腐化侵蚀炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_032",
+"name": "急冻炉",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_033",
+"name": "爆破之爪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_003",
+"name": "贵族魔晶枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_012",
+"name": "邪魔脊椎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_018",
+"name": "火山之怒",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_021",
+"name": "增压涡炉三式",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_027",
+"name": "磐岩魔炮枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_006",
+"name": "青瓷炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_031",
+"name": "虚空引擎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_034",
+"name": "坚冰引擎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_004",
+"name": "终始熔炉",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_029",
+"name": "炎龙引擎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_009",
+"name": "陨铁炉枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_010",
+"name": "灭魔之枪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_020",
+"name": "恶鬼炉心",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_023",
+"name": "涡炉火箭",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_028",
+"name": "锈炉巨戟",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_017",
+"name": "寒冰吐息",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_035",
+"name": "轰击者",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_030",
+"name": "君王之爪",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "FD_036",
+"name": "魔神邪焰熔炉",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_001",
+"name": "生锈的提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_026",
+"name": "利刃提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_010",
+"name": "木灵幽魂",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_012",
+"name": "枯藤提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_025",
+"name": "寒冰提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_023",
+"name": "钢铁提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_014",
+"name": "磐石提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_022",
+"name": "荒蛮之炬",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_007",
+"name": "异变提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_011",
+"name": "诱饵晶石",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_013",
+"name": "河流蛊灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_017",
+"name": "学徒提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_034x",
+"name": "陈旧的头盔(NPC专用）",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_034",
+"name": "陈旧的头盔",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_030",
+"name": "铁炉灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_015",
+"name": "军团火炬",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_003",
+"name": "虚空引力提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_016",
+"name": "堡垒提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_009",
+"name": "试作秘法提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_020",
+"name": "闪电之核",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_033",
+"name": "遗迹核心",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_031",
+"name": "坚冰魔炉",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_032",
+"name": "剑客之遗",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_019",
+"name": "坚冰之障",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_008",
+"name": "炎龙之魂",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_006",
+"name": "终始引路灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_024",
+"name": "幻象提灯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_002",
+"name": "蛮牛之魂",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_021",
+"name": "磁暴线圈",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_029",
+"name": "腐蚀帝国骑士之盔",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_035",
+"name": "噩梦傀儡",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_004",
+"name": "邪龙之眼",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_028",
+"name": "雷神之锤",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_018",
+"name": "君王之心",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "PhantomLantern_036",
+"name": "诡谲之影",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_007",
+"name": "训练木刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_001",
+"name": "大太刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_017",
+"name": "破竹",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_009",
+"name": "长枝",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_020",
+"name": "锯齿残刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_004",
+"name": "灵木长枝",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_010",
+"name": "腌制长剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_014",
+"name": "冷月",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_015",
+"name": "日轮",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_021",
+"name": "炼金手术刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_023",
+"name": "荒漠鳍刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_026",
+"name": "巫术鱼骨",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_034",
+"name": "猛毒猎刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_003",
+"name": "能量刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_006",
+"name": "蒸汽动力锯",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_031",
+"name": "贵族长刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_019",
+"name": "幽斩",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_028",
+"name": "雷鸣刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_005",
+"name": "羽刃斩",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_008",
+"name": "兽首黑刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_011",
+"name": "般若一文字",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_032",
+"name": "妖之牙",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_002",
+"name": "重晶长刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_016",
+"name": "镰鼬切",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_025",
+"name": "龙炎",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_024",
+"name": "永冻",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_027",
+"name": "终始晶刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_013",
+"name": "疾风之刃",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_033",
+"name": "傀儡织针",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_022",
+"name": "噩梦之锋",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_018",
+"name": "恶魔脊椎剑",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_030",
+"name": "邪灵村正",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_029",
+"name": "邪龙之髓",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "KA_035",
+"name": "诡谲斩魂刀",
+"cat": "武器",
+"itemType": 0
+},
+{
+"id": "CA_008",
+"name": "追踪者面具",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_007",
+"name": "村民先知服饰",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_014",
+"name": "佣兵法师袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_018",
+"name": "流浪法师长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_022",
+"name": "守护者黑袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_005",
+"name": "腐化圣职者短袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_009",
+"name": "邪恶炼金长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_013",
+"name": "祈雨服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_015",
+"name": "战地牧师套装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_020",
+"name": "魔导士兵短袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_001",
+"name": "圣礼法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_006",
+"name": "堕落学徒法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_031",
+"name": "陈旧的女仆装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_041",
+"name": "鱼骨面具",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_035",
+"name": "圣诞老人",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_002",
+"name": "守护者灰袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_003",
+"name": "维特的欺诈法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_011",
+"name": "雷电法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_012",
+"name": "忧伤南瓜",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_021",
+"name": "玄冥阴阳服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_034",
+"name": "邪恶稻草人",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_036",
+"name": "寒地巫师服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_023",
+"name": "纳伊鲁的符文长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_030",
+"name": "纯蓝符文袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_017",
+"name": "红石法师长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_019",
+"name": "赤玉巫师面具",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_004",
+"name": "占卜师法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_024",
+"name": "魔导战斗法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_025",
+"name": "白魔法师长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_026",
+"name": "黑魔法师长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_029",
+"name": "叛逆领主法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_033",
+"name": "吸血鬼礼服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_037",
+"name": "冻结法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_038",
+"name": "幽羽长袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_039",
+"name": "不祥的女仆装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_040",
+"name": "噩梦法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_016",
+"name": "守护者白袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_027",
+"name": "焚天",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_028",
+"name": "传奇法师法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "CA_042",
+"name": "虚空法袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_000",
+"name": "朴素的内衬",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_001",
+"name": "猎手轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_032",
+"name": "见习猎人轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_031",
+"name": "木精灵树衣",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_002",
+"name": "探险者皮甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_010",
+"name": "帝国士兵轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_011",
+"name": "流浪剑士皮甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_012",
+"name": "役卒兵装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_014",
+"name": "密探罩袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_029",
+"name": "园丁工作服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_033",
+"name": "冠军战衣",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_034",
+"name": "遗落的布偶装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_003",
+"name": "守卫轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_004",
+"name": "典礼皮衣",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_013",
+"name": "剑士战服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_009",
+"name": "山贼轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_019",
+"name": "掮客帽",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_021",
+"name": "步人甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_026",
+"name": "山民之衣",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_020",
+"name": "流浪者皮甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_040",
+"name": "可怕的玩偶装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_041",
+"name": "吞食之铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_008",
+"name": "游侠正装",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_015",
+"name": "云纹兜鍪",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_016",
+"name": "侠客袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_017",
+"name": "窃贼兜帽",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_022",
+"name": "玄铁甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_023",
+"name": "龟壳轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_030",
+"name": "兽人短袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_038",
+"name": "诅咒蛮骨甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_042",
+"name": "神秘剑客短袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_024",
+"name": "阿希尔的符文之甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_028",
+"name": "华丽掮客服",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_006",
+"name": "白蝠骑士骨甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_007",
+"name": "虚灵隐匿者",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_018",
+"name": "看守者轻甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_005",
+"name": "恶龙皮甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_025",
+"name": "阴影潜藏者",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_027",
+"name": "恶毒者面具",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_039",
+"name": "风暴团长之铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_037",
+"name": "猩红符文甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_035",
+"name": "神圣武士之傲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_036",
+"name": "恶魔君王甲壳",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "NA_046",
+"name": "诡谲混沌之铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_024",
+"name": "佣兵板甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_013",
+"name": "树灵藤甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_002",
+"name": "北境骑士重铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_025",
+"name": "陈旧骑士甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_001",
+"name": "堡垒重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_004",
+"name": "武士大铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_026",
+"name": "流浪骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_015",
+"name": "噬魂铠甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_032",
+"name": "废土暴徒",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_033",
+"name": "废土锈铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_036",
+"name": "沼地猎兵",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_006",
+"name": "鹰铁卫",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_007",
+"name": "铁骑士铠甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_005",
+"name": "鬼武者大铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_012",
+"name": "恶神重铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_018",
+"name": "玄铁红线甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_023",
+"name": "熔铁骑士铠甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_021",
+"name": "破魔者铠甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_014",
+"name": "磐岩坚铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_016",
+"name": "腐鳞重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_034",
+"name": "冰灵机关铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_020",
+"name": "帕拉提的符文之铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_029",
+"name": "圣骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_008",
+"name": "屠魔者重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_009",
+"name": "铁炉骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_010",
+"name": "黑骑士板甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_011",
+"name": "蛮牛拘束器",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_003",
+"name": "黄金骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_027",
+"name": "血骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_028",
+"name": "遗忘守护之铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_031",
+"name": "深绿符文铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_017",
+"name": "堕落骑士重甲",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_035",
+"name": "淬魔黄铜重铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_022",
+"name": "守誓者之力",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_019",
+"name": "兽面吞头连环铠",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "HA_038",
+"name": "罪孽领主重袍",
+"cat": "防具",
+"itemType": 1
+},
+{
+"id": "PassiveProps_Common_Red_1",
+"name": "红色符文石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodI",
+"name": "游侠羽饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGloves",
+"name": "剑士腕甲",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil1",
+"name": "红色徽记底座",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv1",
+"name": "断刃碎片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderI",
+"name": "小瓶黑火药",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BeastFinger",
+"name": "兽骨护指",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GiantKiller",
+"name": "巨斧印记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FirstAid",
+"name": "臂刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodII",
+"name": "游侠披肩",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGlovesII",
+"name": "遗失的剑徽",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil2",
+"name": "红色纹章部件",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv2",
+"name": "华丽的剑柄",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderII",
+"name": "中瓶黑火药",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MarkOfMusket",
+"name": "火枪徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NitrifyingMushroom",
+"name": "硝化蘑菇",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HighExplosivePowder",
+"name": "高爆火药粉",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PhosphoriteFragment",
+"name": "磷石碎块",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DetonationAgent",
+"name": "诱爆试剂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DaggerOfAkhil",
+"name": "虚灵断刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AcientHandle",
+"name": "古老的剑柄",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NecklaceOfBerserker",
+"name": "刺客面罩",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NormalArmorStrength",
+"name": "轻甲装备手册",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfZealot",
+"name": "镇压徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TheGadFly",
+"name": "牛虻戒指",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_VoucherOfOrcishHero",
+"name": "兽人英雄之证",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SourceOfFreeze",
+"name": "阴险匕首",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_OutlawBracers",
+"name": "狂徒护腕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SpeedUp_1",
+"name": "厚实皮靴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RapierOfAkhil",
+"name": "红刃刺剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_OilJar",
+"name": "古旧油壶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireDragonBloodI",
+"name": "火龙之血",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxHPUp_3",
+"name": "火龙踏炎足（左）",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PunishImprint",
+"name": "火龙踏炎足（右）",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireDragonScale",
+"name": "火龙鳞片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FlameCoat",
+"name": "火焰风衣",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkUpByActiveProp",
+"name": "突击背心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkUpByDodge",
+"name": "附魔配重环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkUpByThrow",
+"name": "动能回收背带",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkUpByUseSkill",
+"name": "充能权杖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritGetMana",
+"name": "流星碎片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakChanceUpByLowHp",
+"name": "背水护腕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakGetDirAtkUp",
+"name": "红石指虎",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUpByCombo",
+"name": "拳师腰带",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodIII_1",
+"name": "残缺的游侠兜帽",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodIII",
+"name": "残缺的游侠兜帽",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodIII_2",
+"name": "残缺的游侠兜帽",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangerHoodIII_12",
+"name": "传奇游侠风衣",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGlovesIII_2",
+"name": "残缺的剑士手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGlovesIII_12",
+"name": "传奇剑士手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGlovesIII_1",
+"name": "残缺的剑士手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordsmanshipGlovesIII",
+"name": "残缺的剑士手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil3_2",
+"name": "残缺的阿希尔徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil3_1",
+"name": "残缺的阿希尔徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil3",
+"name": "残缺的阿希尔徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProofOfAkhil3_12",
+"name": "阿希尔徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv3_2",
+"name": "残缺的勇者之剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv3_12",
+"name": "勇者之剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv3_1",
+"name": "残缺的勇者之剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkDmgUp_Lv3",
+"name": "勇气之鞘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderIII_1",
+"name": "大黑火药瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderIII_2",
+"name": "大黑火药瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderIII_12",
+"name": "满溢的火药瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlackPowderIII",
+"name": "大黑火药瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MarkOfGreatsword",
+"name": "重剑徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Igniter",
+"name": "精密点火器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_KillGetThrowItem",
+"name": "惊喜盒",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SpearOfAkhil",
+"name": "阿希尔枪尖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SwordStaffOfAkhil",
+"name": "阿希尔权杖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RedTotem",
+"name": "红色鱼人图腾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ShardOfDetonation",
+"name": "爆裂芯片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BerserkerArmplates",
+"name": "狂战士臂甲",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DestinyCoin",
+"name": "命运硬币",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireElement",
+"name": "瓶中炎灵",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Moonstone",
+"name": "背水头巾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Rebirth",
+"name": "魔物通缉令",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_WhaleStatue",
+"name": "动能转换炉",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HighpuritySaltpeter",
+"name": "高纯硝石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HideyoshiKnife",
+"name": "弑魔胁差",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DemonHand",
+"name": "猎人印记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DemonWristband",
+"name": "被侵蚀的护腕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireRuneQuake",
+"name": "勇气纹章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PiggyBank",
+"name": "火龙鳞手（左）",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RingOfEarth",
+"name": "火龙鳞手（右）",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SulfurCrystal",
+"name": "硫磺结晶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritAddDebuffPosion",
+"name": "生锈的宝刀",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FlameWhetstone",
+"name": "烈焰砥石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireShard",
+"name": "火石匕首",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NightmarePuppet",
+"name": "噩梦骑士玩偶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SewerWardenSaw",
+"name": "魔能锯刃碎片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireGetHugeFireFlower",
+"name": "硝化电晶吊坠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritUpCritDmgUp",
+"name": "破坏重拳徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkUpByKill",
+"name": "噬魂魔戒",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ReduceActvepropsCDByKill",
+"name": "自动维护装置",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUpByAtk",
+"name": "红石刻刀",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUpByRedRune",
+"name": "红之魂器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritGetCritDmgUp",
+"name": "毁伤魔锥",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakGetShield",
+"name": "符文刃鞘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Sunstone",
+"name": "无形之刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BootsOfSwiftness",
+"name": "审判沙漏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DragonClaw",
+"name": "火龙焰首",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NitrateBlade",
+"name": "硝石之刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HazardousOxidizingAgent",
+"name": "危险的助燃药剂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DevouringTeeth",
+"name": "吞噬之牙",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BrokenGlasses",
+"name": "诡异的眼镜",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SummonCreatureCrit",
+"name": "暴虐战鼓",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AxeOfAkhil",
+"name": "阿希尔红刃斧",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MagicBag",
+"name": "魔术口袋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_EvilSpiritPower",
+"name": "孽者之石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GController",
+"name": "增援发信仪",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GardenerPower",
+"name": "治愈的灵魂祝福",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_KnightMasterPower",
+"name": "坚毅的灵魂祝福",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaidPower",
+"name": "活力的灵魂祝福",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SebastianPower",
+"name": "神秘的灵魂祝福",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CommonWeapon",
+"name": "混沌的武器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CommonArmor",
+"name": "混沌的防具",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CommonPassiveProps",
+"name": "混沌的宝藏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CommonPassiveProps_Epic",
+"name": "混沌的首领宝藏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CommonPassiveProps_Legend",
+"name": "混沌的首领宝藏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Common_White",
+"name": "混沌符文石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HugeCrystal",
+"name": "魂晶块",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BloodCollectionBottle",
+"name": "无尽黄金口袋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_WeirdCarapax",
+"name": "无尽魂晶口袋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SoulAccumulationBag",
+"name": "聚魂袋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FourLeaf",
+"name": "四叶草",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FasterTimeInterval",
+"name": "时光沙漏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BeHitDoDmg",
+"name": "复仇荆棘之种",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AllElementDamageUp",
+"name": "元素王冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BrainOfEthrealBall",
+"name": "混沌符文晶球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_ExecutorCloak",
+"name": "堕落法师斗篷",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_SoulNail",
+"name": "吸魂之楔",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_FourLeafClover",
+"name": "贪欲之壶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_BluntHorn",
+"name": "邪兽的钝角",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_BrokenMagicCrown",
+"name": "诅咒的魔晶石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_CrystalBag",
+"name": "诅咒的凝晶瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_DeepDarkFantasicBook",
+"name": "被诅咒的魔法书",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_FieryDragonHeart",
+"name": "堕落火龙之心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_LastChampionBelt",
+"name": "染血的冠军腰带",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_LuckyCoin",
+"name": "被诅咒的硬币",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_MicaShield",
+"name": "被诅咒的云母盾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_MuramasaDebris",
+"name": "折断的妖刀",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_RecoverMPByTIme",
+"name": "被诅咒的怀表",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_RustedKnife",
+"name": "被诅咒的锈刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_SealedSpiritVesse",
+"name": "邪恶的锢灵瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_SoulCollector",
+"name": "邪恶的敛魂瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CurseGreenRuneShield",
+"name": "被诅咒的符文盾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_ClawofAnnihilation",
+"name": "湮灭之爪",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_FrostBlade",
+"name": "寒冰邪刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_SummonDeath",
+"name": "屠夫的弯钩",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_PandorasInkBox",
+"name": "诅咒的魔盒",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_RedHpRecover",
+"name": "腐蚀的雪兽之牙",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_GetCommonProps",
+"name": "混沌之茧",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_ForbiddenSpell",
+"name": "禁咒羊皮纸",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Curse_ArmageddonSpear",
+"name": "灭世之楔",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_AtkUpBelt",
+"name": "亚军腰带",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_BlueNecklace",
+"name": "鲁伊纳符文护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_BoarPaper",
+"name": "离群木木猪契约",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_GreenNecklace",
+"name": "普拉提之钥",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_HpRecover",
+"name": "生命之芯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_MpRecover",
+"name": "法刀圣杯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_RedNecklace",
+"name": "阿西尔符文吊坠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Fake_ShieldRecover",
+"name": "生命禾少表",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Common_Blue_1",
+"name": "蓝色符文石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv1",
+"name": "黄铜徽章底座",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv1",
+"name": "魔力玛瑙",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv1",
+"name": "蓝色徽记底座",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv1",
+"name": "魔能电容器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceDmgUp_Lv1",
+"name": "冰晶饰片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMpToAtk_1",
+"name": "灵狐护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SmellHeadBand",
+"name": "散发怪味的头环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv2",
+"name": "法力徽章纹饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv2",
+"name": "魔力蓝宝石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv2",
+"name": "蓝色纹饰部件",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv2",
+"name": "魔能电极",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BigMonsterHeart",
+"name": "永冻宝珠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MoreElectricFlowerLimit",
+"name": "蓄电石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricArcBud",
+"name": "电弧花蕾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_UseMpGetRuneBullet",
+"name": "符文回响石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_KillGetElectricFLower",
+"name": "雷纹印记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ThunderGatherNeedle",
+"name": "引雷针",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BehitGetRuneBullet",
+"name": "雪兽皮手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TriggerElectricFlowerGetSpd",
+"name": "踏雷之靴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DodgeThunder",
+"name": "雷龙翼膜",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LightningScale",
+"name": "闪电之鳞",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DodgeGetElectricFlower",
+"name": "雷灵的舞鞋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletGetSkillAtkUp",
+"name": "恶魔水晶球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceDirectAtk",
+"name": "不融冰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AbosorbElectricMachine",
+"name": "集电瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BrokenRing",
+"name": "雷离之环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_EmergencySystem",
+"name": "魔晶护心镜",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GeneralsAmulet",
+"name": "蓄雷戒指",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MailBreaker",
+"name": "魔导师之靴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PlatformHeels",
+"name": "魔能钉鞋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PropManual",
+"name": "佣兵法师的手册",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HeartOfRevenge",
+"name": "魔法沙漏",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RecycleManaNecklace",
+"name": "魔力回收炉",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MagicBook",
+"name": "守护者议会徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ContractOfDemonSoldier",
+"name": "恶魔士兵契约",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MurlocShamanStaff",
+"name": "蓝色鱼人图腾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ManaCore",
+"name": "法力电芯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_KryssRing",
+"name": "电涌指环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ClothArmorStrength",
+"name": "布甲装备手册",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ManaRecoverByTime",
+"name": "魔力回路",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillCriDmgUp",
+"name": "重伤之魔匕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_EyePatch",
+"name": "闪电魔瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv3_1",
+"name": "残缺的夜枭徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv3_12",
+"name": "夜枭守护者徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv3_2",
+"name": "残缺的夜枭徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMana_Lv3",
+"name": "残缺的夜枭徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv3_1",
+"name": "残缺的法师之饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv3_12",
+"name": "大法师之饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv3_2",
+"name": "残缺的法师之饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillAtkUp_Lv3",
+"name": "残缺的法师之饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv3",
+"name": "残缺的纳伊鲁徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv3_12",
+"name": "纳伊鲁徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv3_1",
+"name": "残缺的纳伊鲁徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDamageUP_Lv3_2",
+"name": "残缺的纳伊鲁徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv3",
+"name": "残缺的增幅电容",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv3_1",
+"name": "残缺的增幅电容",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv3_12",
+"name": "闪电增幅装置",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricBall_Lv3_2",
+"name": "残缺的增幅电容",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceDmgUp_Lv3_2",
+"name": "黯色冰冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceDmgUp_Lv3_12",
+"name": "不融坚冰之冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PolarRose",
+"name": "黯色冰冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceDmgUp_Lv3_1",
+"name": "黯色冰冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LightningSpear",
+"name": "雷电枪",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxMpGetDef",
+"name": "瑞亚多能量晶石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LighteningChain",
+"name": "雷霆锁链",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_StormHorn",
+"name": "风暴之角",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricCloud",
+"name": "磁化孢子囊",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_UseManaGetAtk",
+"name": "能量法球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlueRuneRing",
+"name": "纳伊鲁之戒",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlueVeinedRapier",
+"name": "蓝纹刺剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricAttrRuneBullet",
+"name": "静电符文手巾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElecRuneQuake",
+"name": "结晶石粉末",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ReduceDamageByMP",
+"name": "维特的无瑕水晶球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TheRingOfSacrifice",
+"name": "雷晶石耳饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AddForceTimeStop",
+"name": "雷霆胸针",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PuppetArm",
+"name": "魔偶的断臂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IronCaliga",
+"name": "贪吃魔灵",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BrandOfHurt",
+"name": "法弹增幅仪",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_EmergencyEscape",
+"name": "纳伊鲁符文护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceElement",
+"name": "瓶中冰霜",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ThunderElement",
+"name": "瓶中雷霆",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MoveGetElectricFlower",
+"name": "静电腿饰",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SmallCore",
+"name": "完美的魔力核心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RangRecoverMP",
+"name": "法力圣杯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritUp_4",
+"name": "银白薄荷叶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceShard",
+"name": "冰晶匕首",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceIronManCore",
+"name": "被封印的冰灵",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TriggerGetElectricFlower",
+"name": "闪电双生链",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CloneMachine",
+"name": "希拉的宝石之剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FrostWhetstone",
+"name": "寒冰砥石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ThunderWhetstone",
+"name": "雷鸣砥石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DodgePosion",
+"name": "冰川胸章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritUp_5",
+"name": "北风号角",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricFrozenExtraTime",
+"name": "极地磁环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricFlowerLighteningChain",
+"name": "闪电环扣",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricGlove",
+"name": "强磁手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricMagicBook",
+"name": "雷之法典",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricFlowerGetMoreElecAttr",
+"name": "电流增幅装置",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricFlowerEnemiesMove",
+"name": "符文雷引石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricFlowerGetThunderbolt",
+"name": "引雷飞镖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AtkGetManaRecover",
+"name": "汲魔刀油",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ManaRecoverGetSkillDmgUp",
+"name": "聚能之冠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDmgUpByBlueRune",
+"name": "蓝之魂器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillDmgUpManaCostUp",
+"name": "过载魔符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BlueRuneStaff",
+"name": "纳伊鲁之杖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ChallengerHood",
+"name": "纳伊鲁之印",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AliceWhip",
+"name": "闪电护腕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ShockCore",
+"name": "奔雷核心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ThundercoilCutlass",
+"name": "缠雷军刀",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TriggerElectricFlower",
+"name": "雷灵头环",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricDebuffStacker",
+"name": "结晶龙爪",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBulletDmgUpBySA",
+"name": "黑魔法师之杖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BigMonsterArmor",
+"name": "冰封魔杖",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GreenBlueStaff",
+"name": "生命秘法之戒",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Common_Green_1",
+"name": "绿色符文石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv1",
+"name": "绿色徽记底座",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv1",
+"name": "小颗毒珠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MaxHpToAtk_1",
+"name": "青玉饰片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PropMasterOfRunning",
+"name": "生命露珠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv2",
+"name": "绿色纹饰部件",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv2",
+"name": "剧毒凝珠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HpUp_Lv2",
+"name": "生命玉石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MoreRuneQuakeStack",
+"name": "生命符文晶石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_NewRoomRuneQuake",
+"name": "符文竹节",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonSpringSpdDown",
+"name": "剧毒气溶胶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MorePoisonTime",
+"name": "强效毒药瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonLowerAttrR",
+"name": "危险的针管",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonSpringAttr",
+"name": "诡异的坩埚",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonAtkDownDebuff",
+"name": "麻痹毒剂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_JumpRuneQuake",
+"name": "撼地手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LargePoisonSpring",
+"name": "诡异的手风琴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RecoverPotionPerRoom",
+"name": "不老泉水",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SurroundRuneQuake",
+"name": "帕拉提的符文腰带",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MoveRuneQuake",
+"name": "符文长靴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_EvilBlade",
+"name": "恶灵孢子",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PerfectPorcupine",
+"name": "完整的豪猪皮",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PatientAmulet",
+"name": "忍耐护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HeavyArmorStrength",
+"name": "重甲装备手册",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RobustShell",
+"name": "强韧甲壳",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RunningBomb",
+"name": "守护护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonFrog",
+"name": "毒蛙脚蹼",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SoulCrystalCore",
+"name": "干瘪的橘子",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TheRingOfBile",
+"name": "胆汁戒指",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GreenRuneShoes",
+"name": "帕拉提之靴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritUp_1",
+"name": "转魔护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SpilledAlchemyBottle",
+"name": "溢出的炼金瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SlimeArmorPlate",
+"name": "黏液护甲片",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MouseTail",
+"name": "鼠之尾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ReconstructionGloves",
+"name": "重构手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ContractOfBaldHead",
+"name": "游荡异灵契约",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AroundEnemyGetPoison",
+"name": "恶臭皮肩垫",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AroundEnemyGetPoisonByKill",
+"name": "瘴染手锤",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SupplyFisbee",
+"name": "量产飞刃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LessActvepropsCD",
+"name": "维护工具箱",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv3_2",
+"name": "残缺的帕拉提徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv3_12",
+"name": "帕拉提徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv3_1",
+"name": "残缺的帕拉提徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakDmgUp_Lv3",
+"name": "残缺的帕拉提徽记",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv3_12",
+"name": "三重剧毒法球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv3_2",
+"name": "残缺的剧毒法球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv3_1",
+"name": "残缺的剧毒法球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonDmgUp_Lv3",
+"name": "残缺的剧毒法球",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HpUp_Lv3_12",
+"name": "无尽生命玉印",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HpUp_Lv3_2",
+"name": "残缺的印盘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HpUp_Lv3_1",
+"name": "残缺的印盘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RunningMagicCircle",
+"name": "残缺的印盘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonSpringMove",
+"name": "孢子蒲公英",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonStack",
+"name": "危险的蒸馏瓶",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonSpringRunner",
+"name": "剧毒古龙水",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MoveGetThrowItem",
+"name": "便携黑洞",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonRuneQuake",
+"name": "巨蛾残翅",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FasterPoisonDmg",
+"name": "异端救治手册",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonGetPoisonSpring",
+"name": "毒气蘑菇",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonAttrByTime",
+"name": "尤金的手巾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonBomberBySlash",
+"name": "园丁的园艺手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SpiderNest",
+"name": "孢子虫巢",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SummonRebirthFaster",
+"name": "伊夫利亚的徽章",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_TimeGetPoisonSpring",
+"name": "剧毒喷雾器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AllRuneQuakeByTime",
+"name": "磐石日晷",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_AtkUpByTime",
+"name": "磨刀石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneQuakeMark",
+"name": "帕拉提的符文短剑",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DamageReducePerRoom",
+"name": "护盾充能器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CyclicalSummonAtkUp",
+"name": "伊夫利亚的振奋宝石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_CritUp_3",
+"name": "毒液吊坠",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BoneOfMonster",
+"name": "异兽头骨",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonElement",
+"name": "腐毒娃娃",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PropMasterOfDash",
+"name": "坚守之盾徽",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GreenTotem",
+"name": "绿色鱼人图腾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RebirthTalisman",
+"name": "重生护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RingOfThief",
+"name": "圣子像",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SourceOfPoison",
+"name": "生命之心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RunningPosion",
+"name": "生命秒表",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ContractMaster",
+"name": "伊夫利亚的黄金蛋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ContractOfCorruptedBoar",
+"name": "离群野猪契约",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_Flintstone",
+"name": "恶语南瓜",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GrowingSeedBag",
+"name": "诡异的种子袋",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DevilBible",
+"name": "被侵蚀的圣典",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_WoodKnightBurl",
+"name": "跳动的树瘤",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ReUseItemGlove",
+"name": "回收手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GreenRuneGlove",
+"name": "符文手套",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonLevelUp",
+"name": "蚀骨毒液",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneBreakToPoison",
+"name": "剧毒砥石",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FrozenPoison",
+"name": "极地寄生虫",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ElectricGetMorePoison",
+"name": "磁化毒针",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SmallLothricBanner",
+"name": "补给发信器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SpiderQueenPassive",
+"name": "猛毒蛛螯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_DirAtkExcutePoison",
+"name": "噬毒凶魂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RuneQuakeDmgUpByGreenRune",
+"name": "绿之魂器",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_SkillCritDoublePoison",
+"name": "腐骨咒盘",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ProtectNecklace",
+"name": "异兽之心",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_MentalCrown",
+"name": "帕拉提之冕",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_IceArmorShock",
+"name": "阿瓦莉的坚冰盾",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_GreenRuneStaff",
+"name": "帕拉提之钥",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_BrokenBirdFace",
+"name": "老旧的鸟嘴",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_ContractLink",
+"name": "伊夫利亚的激流提灯",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_FireDebuffEndPoisonDebuff",
+"name": "易爆的毒囊",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_PoisonMakeDefDown",
+"name": "猛毒催化剂",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_LifeGem_Chicken",
+"name": "生命结晶簇",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_HugeCrystal_Broken",
+"name": "失去光泽的魂晶块",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "PassiveProps_RebirthTalisman_Broken",
+"name": "破碎的重生护符",
+"cat": "被动宝藏",
+"itemType": 3
+},
+{
+"id": "ActiveProps_Bomb",
+"name": "炸弹",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_SmokeBarrel",
+"name": "不稳定炼金爆桶",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_JumpShoe",
+"name": "跳跃靴",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_Boomerang",
+"name": "附魔回旋镖",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_HealingPoison",
+"name": "应急急救药瓶",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_RecoverManaPoison",
+"name": "应急法力药瓶",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_SubWeaponBelt",
+"name": "武器背带",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_SummonCannon",
+"name": "便携魔法炮台",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_Banana",
+"name": "神奇的香蕉藤",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_BounceFisbee",
+"name": "魔能动力飞盘",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_IceBomb",
+"name": "急冻炸弹",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_MagicBag",
+"name": "魔术口袋",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ActiveProps_Snowball",
+"name": "巨型雪球",
+"cat": "主动道具",
+"itemType": 2
+},
+{
+"id": "ExhaustProps_Potion_Curse_Atk",
+"name": "狂怒之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_Atk_Lv2",
+"name": "狂怒之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_Crit",
+"name": "破坏之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_CritDmg",
+"name": "毁灭之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_CritDmg_Lv2",
+"name": "毁灭之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_Crit_Lv2",
+"name": "破坏之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_Def",
+"name": "钢锁之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_Def_Lv2",
+"name": "钢锁之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_HP",
+"name": "长生之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_HP_Lv2",
+"name": "长生之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_SkillRate",
+"name": "深渊之血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Curse_SkillRate_Lv2",
+"name": "深渊之诅血",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_1",
+"name": "微效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_2",
+"name": "弱效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_3",
+"name": "治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_4",
+"name": "强效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_AtkPerRoom",
+"name": "持续进攻药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Atk_1",
+"name": "强攻药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Atk_2",
+"name": "强效强攻药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Atk_3",
+"name": "守备药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Atk_4",
+"name": "强效守备药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_CritDmg_1",
+"name": "痛击药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_CritDmg_2",
+"name": "强效痛击药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Crit_1",
+"name": "精准药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Crit_2",
+"name": "强效精准药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_DancePotion",
+"name": "派对药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Def_1",
+"name": "重型铠甲药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Def_2",
+"name": "强效重型铠甲药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Def_3",
+"name": "碎裂铠甲药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Def_4",
+"name": "强效碎裂铠甲药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_DelayHeal",
+"name": "延迟治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_DodgeDistUp",
+"name": "腿力药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_DodgeFrameUp",
+"name": "幸运闪避药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_ElectricSparkPotion",
+"name": "电花药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_HealPerRoom",
+"name": "弱效长效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_HealPerRoom_2",
+"name": "长效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_HealPerRoom_3",
+"name": "强效长效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_HealPerRoom_4",
+"name": "神圣长效治愈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_IronFlesh",
+"name": "钢铁之躯药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_LightningCursed",
+"name": "引雷药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MaxHp_1",
+"name": "活力药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MaxHp_2",
+"name": "强效活力药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MaxHp_3",
+"name": "萎靡药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MaxHp_4",
+"name": "强效萎靡药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MoveSlow_1",
+"name": "降速药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_MoveSlow_2",
+"name": "强效降速药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Mp_1",
+"name": "弱效魔力涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Mp_2",
+"name": "魔力涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Mp_3",
+"name": "强效魔力涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Mp_6",
+"name": "魔力充盈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Mp_7",
+"name": "强效魔力充盈药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_RainbowAfro",
+"name": "艺术爆炸药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_RandomAttr_Electric",
+"name": "电附魔药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_RandomAttr_Fire",
+"name": "火附魔药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_RandomAttr_Ice",
+"name": "冰附魔药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_RandomAttr_Poison",
+"name": "毒附魔药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Recover_Blue",
+"name": "纳伊鲁涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Recover_Green",
+"name": "帕拉提涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Recover_Red",
+"name": "阿希尔涌现药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Shield_1",
+"name": "守护药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Shield_2",
+"name": "强效守护药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_Shield_3",
+"name": "神圣守护药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_SkillAtk_3",
+"name": "法力破坏药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_StrongBody",
+"name": "巨人之力药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_TheStrongPotion",
+"name": "强者药水",
+"cat": "消耗品",
+"itemType": 12
+},
+{
+"id": "ExhaustProps_Potion_AlchemistDangerous",
+"name": "尤金的危险试剂",
+"cat": "消耗品",
+"itemType": 12
+}
+]
