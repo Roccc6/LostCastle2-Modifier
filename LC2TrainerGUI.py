@@ -1,8 +1,13 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-import frida, queue, os, json
+import frida, queue, os, sys, json
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+def _base_dir():
+    if getattr(sys, 'frozen', False) and hasattr(sys, '_MEIPASS'):
+        return sys._MEIPASS
+    return os.path.dirname(os.path.abspath(__file__))
+
+BASE = _base_dir()
 AGENT_PATH = os.path.join(BASE, 'agent.js')
 AFFIX_PATH = os.path.join(BASE, 'gem_affix.json')
 ITEMS_PATH = os.path.join(BASE, 'items_give.json')
@@ -367,6 +372,18 @@ class App:
         self.root.destroy()
 
 if __name__ == '__main__':
+    if '--selftest' in sys.argv:
+        rows = load_json(AFFIX_PATH, [])
+        items = load_json(ITEMS_PATH, [])
+        print('agent.js   :', os.path.exists(AGENT_PATH), AGENT_PATH)
+        print('affixes    :', len(rows))
+        print('items      :', len(items))
+        try:
+            import frida
+            print('frida      :', frida.__version__)
+        except Exception as e:
+            print('frida FAIL :', e)
+        sys.exit(0)
     root = tk.Tk()
     setup_style(root)
     App(root)
