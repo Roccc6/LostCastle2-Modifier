@@ -1,7 +1,9 @@
-# 失落城堡2 修改器（Lost Castle 2 Trainer）
+# 失落城堡2修改器
 
 一个图形界面的修改器，支持资源修改、指定物品获取与灵魂石生成。
 **仅限离线单机个人使用，请勿用于联机或商业用途。**
+
+![界面截图](screenshot.png)
 
 ---
 
@@ -73,6 +75,7 @@ LC2修改器/
 ├── gem_affix.json      # 灵魂石词条数据（146 条）
 ├── items_give.json     # 可获取物品数据（928 项）
 ├── requirements.txt
+├── screenshot.png      # 界面截图
 └── venv/               # 自包含 Python 环境（可选，不随仓库提交）
 ```
 
